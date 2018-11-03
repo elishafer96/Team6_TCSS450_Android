@@ -11,4 +11,13 @@
 
     <string name="homefrag_tv_welcome">WELCOME</string>
     <string name="connectionsfragment_tv_defaultmessage">No messages</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="loginfragment_login">Log In</string>
+    <string name="loginfragment_register">Register</string>
+    <string name="loginfragment_email">Email</string>
+    <string name="loginfragment_password">Password</string>
 </resources>
